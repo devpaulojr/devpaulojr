@@ -1,4 +1,4 @@
-<code>System.out.println("Hello, world 👋")</code> 
+<code>System.out.println("Hello, world 👋");</code> 
 <hr>
 
 ![devpaulojr GitHub stats](https://github-readme-stats.vercel.app/api?username=devpaulojr&show_icons=true)    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devpaulojr&layout=compact)
